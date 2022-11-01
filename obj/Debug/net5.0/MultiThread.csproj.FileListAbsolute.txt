@@ -1,0 +1,16 @@
+D:\pparalelnoeProgramirovanie\MultiThread\bin\Debug\net5.0\MultiThread.exe
+D:\pparalelnoeProgramirovanie\MultiThread\bin\Debug\net5.0\MultiThread.deps.json
+D:\pparalelnoeProgramirovanie\MultiThread\bin\Debug\net5.0\MultiThread.runtimeconfig.json
+D:\pparalelnoeProgramirovanie\MultiThread\bin\Debug\net5.0\MultiThread.runtimeconfig.dev.json
+D:\pparalelnoeProgramirovanie\MultiThread\bin\Debug\net5.0\MultiThread.dll
+D:\pparalelnoeProgramirovanie\MultiThread\bin\Debug\net5.0\ref\MultiThread.dll
+D:\pparalelnoeProgramirovanie\MultiThread\bin\Debug\net5.0\MultiThread.pdb
+D:\pparalelnoeProgramirovanie\MultiThread\obj\Debug\net5.0\MultiThread.csproj.AssemblyReference.cache
+D:\pparalelnoeProgramirovanie\MultiThread\obj\Debug\net5.0\MultiThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\pparalelnoeProgramirovanie\MultiThread\obj\Debug\net5.0\MultiThread.AssemblyInfoInputs.cache
+D:\pparalelnoeProgramirovanie\MultiThread\obj\Debug\net5.0\MultiThread.AssemblyInfo.cs
+D:\pparalelnoeProgramirovanie\MultiThread\obj\Debug\net5.0\MultiThread.csproj.CoreCompileInputs.cache
+D:\pparalelnoeProgramirovanie\MultiThread\obj\Debug\net5.0\MultiThread.dll
+D:\pparalelnoeProgramirovanie\MultiThread\obj\Debug\net5.0\ref\MultiThread.dll
+D:\pparalelnoeProgramirovanie\MultiThread\obj\Debug\net5.0\MultiThread.pdb
+D:\pparalelnoeProgramirovanie\MultiThread\obj\Debug\net5.0\MultiThread.genruntimeconfig.cache
