@@ -6,25 +6,26 @@ internal class Program
     private static void Main(string[] args)
     {
         Random random = new();
-        int n = 7; // кол-во потоков
-        int N = random.Next(1, 10); // кол-во элементов
+        int n = 4; // кол-во потоков
+        int N = random.Next(10, 40); // кол-во элементов
         int[] a = new int[N];
         
         for (int i = 0; i < a.Length; i++)
         {
-            a[i] = random.Next(1, 10);
+            a[i] = random.Next(2, 3);
         }
+        int multiply = 1;
         int[] returns = new int[n];
         Thread[] thread = new Thread[n];
         for (int i = 0; i < thread.Length; i++)
         {
-
             thread[i] = new Thread(() => { returns[i] = (ThreadFunc(a, i, n)); });
             thread[i].Start();
-            thread[i].Join();
-
         }
-        int multiply = 1;
+        for (int i = 0; i < thread.Length; i++)
+        {
+            thread[i].Join();
+        }
         for (int i = 0; i < returns.Length; i++)
         {
             multiply *= returns[i];

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MultiThread": {
+      "commandName": "Project",
+      "commandLineArgs": "3"
+    }
+  }
+}

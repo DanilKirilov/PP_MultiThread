@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\pparalelnoeProgramirovanie\\MultiThread\\MultiThread.csproj": {}
+    "D:\\pparalelnoeProgramirovanie\\PP_MultiThread-main\\MultiThread.csproj": {}
   },
   "projects": {
-    "D:\\pparalelnoeProgramirovanie\\MultiThread\\MultiThread.csproj": {
+    "D:\\pparalelnoeProgramirovanie\\PP_MultiThread-main\\MultiThread.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\pparalelnoeProgramirovanie\\MultiThread\\MultiThread.csproj",
+        "projectUniqueName": "D:\\pparalelnoeProgramirovanie\\PP_MultiThread-main\\MultiThread.csproj",
         "projectName": "MultiThread",
-        "projectPath": "D:\\pparalelnoeProgramirovanie\\MultiThread\\MultiThread.csproj",
+        "projectPath": "D:\\pparalelnoeProgramirovanie\\PP_MultiThread-main\\MultiThread.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\pparalelnoeProgramirovanie\\MultiThread\\obj\\",
+        "outputPath": "D:\\pparalelnoeProgramirovanie\\PP_MultiThread-main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
